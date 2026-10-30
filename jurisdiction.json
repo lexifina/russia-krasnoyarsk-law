@@ -1,0 +1,11 @@
+{
+  "path": "ru-kya",
+  "code": "RU-KYA",
+  "name": "Krasnoyarsk Krai",
+  "level": "region",
+  "parent": "ru",
+  "repo": "https://github.com/lexifina/russia-krasnoyarsk-law",
+  "build": "catalogue: facts only, no law text (Official Internet Portal of Legal Information metadata)",
+  "language": "ru",
+  "sources": 1
+}
