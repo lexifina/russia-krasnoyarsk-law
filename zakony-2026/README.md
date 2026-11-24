@@ -1,6 +1,6 @@
 # Krasnoyarsk Krai: catalogue of the laws published in 2026 (facts only, no law text)
 
-Законы 2026 · 11 versions, from 2026-02-24 (latest in force: 2026-07-17) · <http://publication.pravo.gov.ru/documents/block/region24>
+Законы 2026 · 12 versions, from 2026-02-24 (latest in force: 2026-11-03) · <http://publication.pravo.gov.ru/documents/block/region24>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -118,3 +118,9 @@
 | Закон № 11-5413 | [11-5413.md](11-5413.md) | 1 | 2026-07-17 |
 | Закон № 11-5415 | [11-5415.md](11-5415.md) | 1 | 2026-07-17 |
 | Закон № 11-5466 | [11-5466.md](11-5466.md) | 1 | 2026-07-17 |
+| Закон № 2-23 | [2-23.md](2-23.md) | 1 | 2026-11-03 |
+| Закон № 2-27 | [2-27.md](2-27.md) | 1 | 2026-11-03 |
+| Закон № 2-53 | [2-53.md](2-53.md) | 1 | 2026-11-03 |
+| Закон № 2-55 | [2-55.md](2-55.md) | 1 | 2026-11-03 |
+| Закон № № 2-57 | [2-57.md](2-57.md) | 1 | 2026-11-03 |
+| Закон № 2-59 | [2-59.md](2-59.md) | 1 | 2026-11-03 |
