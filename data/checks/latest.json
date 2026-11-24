@@ -1,0 +1,94 @@
+{
+ "generated": "2026-11-24T14:07:13Z",
+ "latest": {
+  "pravo-krasnoyarsk|russia/krasnoyarsk/acts": {
+   "attempt": 1,
+   "audit": {
+    "examples": [],
+    "match_neither": 0,
+    "match_new": 2,
+    "match_old": 0,
+    "method": "each sampled entry's own record on the portal (/api/Document?eoNumber=...), its title, number and date signed against the listing's",
+    "sampled": 2
+   },
+   "census": {
+    "checked": 1927,
+    "current": 1921,
+    "gone": 0,
+    "held": 1921,
+    "newest_in_repo": "2026-07-17",
+    "pending": 6,
+    "repo": 1921,
+    "source_in_scope": 1927
+   },
+   "check_id": "ru-pravo-krasnoyarsk-20261124T140450Z",
+   "commits": {
+    "count": 2,
+    "from": "61e13bc7074bfd2b2f3b8101cbb089645ccd9229",
+    "to": "6d6325ddc33e70be8663df9628078fa0c536c9e8"
+   },
+   "corpus": "russia/krasnoyarsk/acts",
+   "error": null,
+   "finished": "2026-11-24T14:07:12Z",
+   "flags": [],
+   "gap": 0,
+   "note": "publication.pravo.gov.ru, block region24: 1927 law-type documents listed (every page read); 1921 held here; 6 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "changed",
+   "published": {
+    "added": [
+     "2400202611030002",
+     "2400202611030003",
+     "2400202611030004",
+     "2400202611030006",
+     "2400202611030008",
+     "2400202611030009"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "requests": 13,
+   "runner": "lawwatch russia (65e3dde363)",
+   "schema": "lexifina-check/1",
+   "seen": {
+    "added": [
+     "2400202611030002",
+     "2400202611030003",
+     "2400202611030004",
+     "2400202611030006",
+     "2400202611030008",
+     "2400202611030009"
+    ],
+    "changed": [],
+    "removed": []
+   },
+   "snapshot": "1927 law-type documents in block region24; newest published 2026-11-03",
+   "source": "pravo-krasnoyarsk",
+   "started": "2026-11-24T14:04:50Z",
+   "unexplained": 0,
+   "update": {
+    "append": {
+     "commits": 1,
+     "corrections": null,
+     "extended_acts": [
+      "zakony-2026"
+     ],
+     "new_acts": []
+    },
+    "parts": [
+     "95-watch-20261124-001.json"
+    ]
+   },
+   "verify": {
+    "cycle_days": 1,
+    "examples": [],
+    "held": 12,
+    "method": "the portal's whole listing for the subject (read this check, every page) parsed by the builder (ru_catalogue.parse) and compared, publication day by publication day, with the corpus this repository is built from; each year's newest state rendered by the builder (gitlaw_common) against the files at the tip of main",
+    "ok": true,
+    "swept": 12,
+    "versions_checked": 249,
+    "versions_differ": 0
+   }
+  }
+ },
+ "schema": "lexifina-check/1"
+}

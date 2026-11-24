@@ -1,0 +1,29 @@
+{
+ "sources": [
+  {
+   "id": "pravo-krasnoyarsk",
+   "kind": "legislation",
+   "name": {
+    "en": "Krasnoyarsk Krai: Official Internet Portal of Legal Information (region24)",
+    "ru": "Krasnoyarsk Krai: Официальный интернет-портал правовой информации (region24)"
+   },
+   "url": "http://publication.pravo.gov.ru/documents/block/region24",
+   "reads": {
+    "en": "every page of the subject's law-type documents (metadata API), each check",
+    "ru": "все страницы списка законов субъекта (API метаданных), при каждой проверке"
+   },
+   "folders": [
+    "zakony-<year>/"
+   ],
+   "schedule": "daily",
+   "state": "watched",
+   "corpora": [
+    "russia/krasnoyarsk/acts"
+   ],
+   "interval": 3.2,
+   "repo": "russia-krasnoyarsk-law",
+   "group": "pravo",
+   "tz": "Asia/Krasnoyarsk"
+  }
+ ]
+}
