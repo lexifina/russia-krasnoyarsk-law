@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T14:07:13Z",
+ "generated": "2026-11-25T07:00:26Z",
  "latest": {
   "pravo-krasnoyarsk|russia/krasnoyarsk/acts": {
    "attempt": 1,
@@ -13,36 +13,25 @@
    },
    "census": {
     "checked": 1927,
-    "current": 1921,
+    "current": 1927,
     "gone": 0,
-    "held": 1921,
-    "newest_in_repo": "2026-07-17",
-    "pending": 6,
-    "repo": 1921,
+    "held": 1927,
+    "newest_in_repo": "2026-11-03",
+    "pending": 0,
+    "repo": 1927,
     "source_in_scope": 1927
    },
-   "check_id": "ru-pravo-krasnoyarsk-20261124T140450Z",
-   "commits": {
-    "count": 2,
-    "from": "61e13bc7074bfd2b2f3b8101cbb089645ccd9229",
-    "to": "6d6325ddc33e70be8663df9628078fa0c536c9e8"
-   },
+   "check_id": "ru-pravo-krasnoyarsk-20261125T061014Z",
+   "commits": null,
    "corpus": "russia/krasnoyarsk/acts",
    "error": null,
-   "finished": "2026-11-24T14:07:12Z",
+   "finished": "2026-11-25T06:11:00Z",
    "flags": [],
    "gap": 0,
-   "note": "publication.pravo.gov.ru, block region24: 1927 law-type documents listed (every page read); 1921 held here; 6 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
-   "outcome": "changed",
+   "note": "publication.pravo.gov.ru, block region24: 1927 law-type documents listed (every page read); 1927 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
+   "outcome": "no-change",
    "published": {
-    "added": [
-     "2400202611030002",
-     "2400202611030003",
-     "2400202611030004",
-     "2400202611030006",
-     "2400202611030008",
-     "2400202611030009"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
@@ -50,33 +39,16 @@
    "runner": "lawwatch russia (65e3dde363)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "2400202611030002",
-     "2400202611030003",
-     "2400202611030004",
-     "2400202611030006",
-     "2400202611030008",
-     "2400202611030009"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "1927 law-type documents in block region24; newest published 2026-11-03",
    "source": "pravo-krasnoyarsk",
-   "started": "2026-11-24T14:04:50Z",
+   "started": "2026-11-25T06:10:14Z",
    "unexplained": 0,
    "update": {
-    "append": {
-     "commits": 1,
-     "corrections": null,
-     "extended_acts": [
-      "zakony-2026"
-     ],
-     "new_acts": []
-    },
-    "parts": [
-     "95-watch-20261124-001.json"
-    ]
+    "parts": []
    },
    "verify": {
     "cycle_days": 1,
