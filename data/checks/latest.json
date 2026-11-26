@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T07:00:26Z",
+ "generated": "2026-11-26T06:17:27Z",
  "latest": {
   "pravo-krasnoyarsk|russia/krasnoyarsk/acts": {
    "attempt": 1,
@@ -21,11 +21,11 @@
     "repo": 1927,
     "source_in_scope": 1927
    },
-   "check_id": "ru-pravo-krasnoyarsk-20261125T061014Z",
+   "check_id": "ru-pravo-krasnoyarsk-20261126T053719Z",
    "commits": null,
    "corpus": "russia/krasnoyarsk/acts",
    "error": null,
-   "finished": "2026-11-25T06:11:00Z",
+   "finished": "2026-11-26T05:38:06Z",
    "flags": [],
    "gap": 0,
    "note": "publication.pravo.gov.ru, block region24: 1927 law-type documents listed (every page read); 1927 held here; 0 published since and not yet here; facts only, no law text (the PDF texts are under /File, which robots.txt disallows)",
@@ -45,7 +45,7 @@
    },
    "snapshot": "1927 law-type documents in block region24; newest published 2026-11-03",
    "source": "pravo-krasnoyarsk",
-   "started": "2026-11-25T06:10:14Z",
+   "started": "2026-11-26T05:37:19Z",
    "unexplained": 0,
    "update": {
     "parts": []
